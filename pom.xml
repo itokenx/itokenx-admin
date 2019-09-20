@@ -87,7 +87,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <mainClass>
-                        com.mmd.itokenx.zipkin.AdminApplication
+                        com.mmd.itokenx.admin.AdminApplication
                     </mainClass>
                 </configuration>
             </plugin>

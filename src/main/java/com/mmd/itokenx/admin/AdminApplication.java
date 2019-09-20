@@ -1,4 +1,4 @@
-package com.mmd.itokenx.zipkin;
+package com.mmd.itokenx.admin;
 
 import de.codecentric.boot.admin.server.config.EnableAdminServer;
 import org.springframework.boot.SpringApplication;
